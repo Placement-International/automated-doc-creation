@@ -22,7 +22,7 @@ Considering the estimated usage (5,000 docs per year) that would mean, for a 1 y
 
 6 different Checklists
 
-* Pre-arrival orientation * (may not be automated in the same way)
+*Pre-arrival orientation* (may not be automated in the same way)
 
 ## Installation Process
 
